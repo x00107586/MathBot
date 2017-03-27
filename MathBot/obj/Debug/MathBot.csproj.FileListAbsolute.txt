@@ -1,0 +1,39 @@
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Bot Application1.dll.config
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Bot Application1.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Bot Application1.pdb
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Autofac.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Chronic.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.Bot.Builder.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.Bot.Connector.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Newtonsoft.Json.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.Net.Http.Formatting.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.Web.Http.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.Web.Http.WebHost.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Autofac.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.Bot.Builder.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.Bot.Connector.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\Newtonsoft.Json.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.Net.Http.Formatting.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.Web.Http.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\System.Web.Http.WebHost.xml
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\obj\Debug\MathBot.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\obj\Debug\Bot Application1.dll
+c:\users\michael\documents\visual studio 2015\Projects\MathBot\MathBot\obj\Debug\Bot Application1.pdb
